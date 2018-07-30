@@ -1,4 +1,5 @@
 [Back to Ryan Morales' Portfolio](https://rmaz-portfolio.herokuapp.com/ "Ryan Morales' Portfolio")
+[View Live Demo]("https://ryanmoralesaz.github.io/quote_generator/")
 
 # Total Lines of Code
 308
@@ -7,11 +8,14 @@
 HTML, CSS, Javascript
 
 # Description
-This app displays randomly generated, hard-coded quotes from a javascript array at timed intervals. The quotes are presented on a pleasing background. The user has the option to interact with the app through pressing the ‘show another quote’ button.
+This app displays randomly generated, hard-coded quotes from a javascript array at timed intervals. 
+The quotes are presented on a pleasing background. 
+The user has the option to interact with the app through pressing the ‘show another quote’ button.
 
 # Tools Used
 This project utilizes javascript objects and arrays to store data. 
-This project uses html, css and javascript to retrieve data and present it through document object model manipulation.
+This project uses html, css and javascript to retrieve data and present it 
+through document object model manipulation.
 
 # Special Features
 Quotes are not re-generated until all other quotes in the array have been iterated.
