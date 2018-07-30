@@ -2,6 +2,8 @@
 
 [View Live Demo](https://ryanmoralesaz.github.io/quote_generator/ "Live Demo")
 
+# Quote Generator
+
 # Description
 This app displays randomly generated, hard-coded quotes from a javascript array at timed intervals. 
 
