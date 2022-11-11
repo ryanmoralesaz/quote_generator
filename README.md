@@ -1,4 +1,4 @@
-[Back to Ryan Morales' Portfolio](https://rmaz-portfolio.herokuapp.com/ "Ryan Morales' Portfolio")
+[Back to Ryan Morales' Portfolio](https://ryanmoralesaz.github.io/ "Ryan Morales' Portfolio")
 
 [View Live Demo](https://ryanmoralesaz.github.io/quote_generator/ "Live Demo")
 
